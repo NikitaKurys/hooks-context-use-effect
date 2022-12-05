@@ -27,3 +27,4 @@ Cписок с пользователями (детализация)
 1. Обратите внимание, загрузка деталей должна происходить только при изменении `props.info.id`, а не при каждом рендере. Т.е. если на одного и того же пользователя кликнуть дважды, то загрузка произойдёт только в первый раз.
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/ov5ikkyomabwq1p5/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/hooks-context-use-effect/branch/main)
