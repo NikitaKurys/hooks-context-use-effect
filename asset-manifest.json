@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hooks-context-use-effect/static/css/main.9fc66b06.css",
+    "main.js": "/hooks-context-use-effect/static/js/main.7d71ff1c.js",
+    "static/js/787.a12cf6de.chunk.js": "/hooks-context-use-effect/static/js/787.a12cf6de.chunk.js",
+    "index.html": "/hooks-context-use-effect/index.html",
+    "main.9fc66b06.css.map": "/hooks-context-use-effect/static/css/main.9fc66b06.css.map",
+    "main.7d71ff1c.js.map": "/hooks-context-use-effect/static/js/main.7d71ff1c.js.map",
+    "787.a12cf6de.chunk.js.map": "/hooks-context-use-effect/static/js/787.a12cf6de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc66b06.css",
+    "static/js/main.7d71ff1c.js"
+  ]
+}
